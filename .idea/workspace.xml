@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81ed6173-31e1-4cf7-8389-3272eda489a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2AKQ7DUcgRUEaZIk4rWiirJvinV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/churi/IdeaProjects/Number1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7a73c9be92623782e08264b305ed426d&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="spring_course" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\churi\IdeaProjects\Number1\src\my_project" />
+      <recent name="C:\Users\churi\IdeaProjects\Number1\src\hibernate_one_to_many_uni\entity" />
+      <recent name="C:\Users\churi\IdeaProjects\Number1\resources" />
+      <recent name="C:\Users\churi\IdeaProjects\Number1\src\test\java\com\groupid\spring" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="TestForMe" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hibernate_one_to_many_uni" />
+      <recent name="hibernate_test_one_to_many_bi" />
+      <recent name="hibernate_test_one_to_many_bi.entity" />
+      <recent name="hibernate_test2" />
+      <recent name="hibernate_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.tz">
+    <configuration name="BotVersusPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForMe.BotVersusPlayer" />
+      <module name="Number1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestForMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForMe.InterfaceCheck" />
+      <module name="Number1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestForMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForMe.TicTacToe" />
+      <module name="Number1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestForMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TikTak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_project.TikTak" />
+      <module name="Number1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestForMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="many_to_many.tz" />
+      <module name="Number1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="many_to_many.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tz" />
+        <item itemvalue="Application.BotVersusPlayer" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.InterfaceCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81ed6173-31e1-4cf7-8389-3272eda489a5" name="Changes" comment="" />
+      <created>1654755629880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654755629880</updated>
+      <workItem from="1654755632529" duration="2678000" />
+      <workItem from="1654858342008" duration="4479000" />
+      <workItem from="1654944780553" duration="7182000" />
+      <workItem from="1655111021376" duration="4189000" />
+      <workItem from="1655201577575" duration="6442000" />
+      <workItem from="1655442973573" duration="12479000" />
+      <workItem from="1655715805841" duration="10895000" />
+      <workItem from="1655804058136" duration="8558000" />
+      <workItem from="1655873875937" duration="2233000" />
+      <workItem from="1655876136852" duration="772000" />
+      <workItem from="1655876937822" duration="374000" />
+      <workItem from="1655877348100" duration="12260000" />
+      <workItem from="1655963704139" duration="9975000" />
+      <workItem from="1656137940747" duration="165000" />
+      <workItem from="1656318208404" duration="10929000" />
+      <workItem from="1656409779312" duration="4946000" />
+      <workItem from="1656656378463" duration="4162000" />
+      <workItem from="1656746249226" duration="914000" />
+      <workItem from="1657026273638" duration="602000" />
+      <workItem from="1657082306000" duration="6008000" />
+      <workItem from="1657980503316" duration="8000" />
+      <workItem from="1657980572423" duration="26000" />
+      <workItem from="1657980623672" duration="67000" />
+      <workItem from="1657985858177" duration="107000" />
+      <workItem from="1657986946371" duration="35000" />
+      <workItem from="1658150523457" duration="634000" />
+      <workItem from="1658306917857" duration="2054000" />
+      <workItem from="1658909726494" duration="1770000" />
+      <workItem from="1658926132774" duration="3041000" />
+      <workItem from="1658931344345" duration="3620000" />
+      <workItem from="1659248179511" duration="6260000" />
+      <workItem from="1659260767583" duration="2587000" />
+      <workItem from="1659328741329" duration="2753000" />
+      <workItem from="1659428196548" duration="3401000" />
+      <workItem from="1659457750438" duration="1197000" />
+      <workItem from="1659527156011" duration="8818000" />
+      <workItem from="1659542908054" duration="1455000" />
+      <workItem from="1659601507726" duration="4590000" />
+      <workItem from="1659606910039" duration="401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
